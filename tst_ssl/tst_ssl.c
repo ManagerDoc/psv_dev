@@ -20,7 +20,7 @@ double my_time_diff(long *end, long *start)
 	return elapsed;
 }
 
-// Hello Alll!!!!!!!!!!!
+// Hello Alll This is Orit branch! 
 
 
 int open_ssl_connection(int threadId, int NumOfIterations, char *ip, char *user1, char* user2, int isSC, char *pass, char *userMedia)

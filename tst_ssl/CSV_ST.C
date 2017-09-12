@@ -37,6 +37,8 @@
 #include "management.h"
 #include "dblog.h"
 
+// Develop branch 5.0.2 version 
+
 // maximal amount of exteded modules
 #define MAX_EXT_MOD 10
 // implemented in csv1st
